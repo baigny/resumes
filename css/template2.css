@@ -1,0 +1,47 @@
+page {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  margin-top: 1cm;
+  margin-bottom: 1cm;
+  box-shadow: 0 0 0.6cm rgba(0,0,0,0.6);
+}
+
+page[size="A4"] {  
+  width: 21cm;
+  height: 29.7cm;
+  padding: 17px;
+  
+}
+ 
+.padding1{
+     width: 20cm;
+     height: 28.4cm;
+     border: 2px solid black;
+     padding: 4px;
+}
+
+.template2hero{
+    margin-top: 20px;
+    font-size: 14px;
+    text-align:left;
+    margin-left:18px;
+} 
+
+.subheadings1{
+    border-top:3px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left:3px solid black;
+    font-size: 14px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 16px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+.marginleft{
+  margin-left: 18px;
+  margin-right: 18px;
+}
